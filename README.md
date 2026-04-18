@@ -78,7 +78,23 @@ The model is trained on historical stock data to forecast future price trends.
 ---
 
 ## 📷 Output Visualizations
-(Add screenshots here from your notebook)
+
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/88e75b1d-9b31-4588-892b-07c3e385a7fa" />
+
+<img width="562" height="416" alt="image" src="https://github.com/user-attachments/assets/fb6f2d99-8df4-4fde-851b-1a5dc9398b75" />
+
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/310f1ff8-fd13-4f94-a2d3-139f540c09ba" />
+
+<img width="871" height="788" alt="image" src="https://github.com/user-attachments/assets/3493c02f-b708-4da1-b720-365657f5b0fc" />
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/0ca96f17-1dbe-4490-8859-bf4e86a79214" />
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/1ca8688b-8a6a-4d20-bc66-588b1a68d8dc" />
+
+<img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/e0bcb35d-1896-498d-922a-70075723c1fd" />
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/d7247393-1f5a-41f3-ad3b-1149b61f9a8e" />
+
 
 ---
 
